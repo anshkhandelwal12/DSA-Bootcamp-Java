@@ -7,4 +7,4 @@
 3. Take a number as input and print the multiplication table for it.## Completed
 4. Take a 2 numbers as inputs and find their HCF and LCM.
 5. Keep taking numbers as inputs till the user enters ‘x’, after that print sum
-of all.
+of all. // Completed
