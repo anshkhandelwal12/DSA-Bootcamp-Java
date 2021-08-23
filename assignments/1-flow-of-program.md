@@ -9,4 +9,4 @@
 5. Keep taking numbers as inputs till the user enters ‘x’, after that print sum
 of all. // Completed
 
-# Calculation of gcd of a numebr can be calculated by the numbers By the In clussion and exclusion principle
+ Calculation of gcd of a numebr can be calculated by the numbers By the In clussion and exclusion principle
