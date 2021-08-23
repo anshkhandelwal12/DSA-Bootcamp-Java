@@ -14,6 +14,6 @@ find Simple Interest. // Complete
 7. Input a number and print all the factors of that number (use loops).// Complete
 8. Input currency in rupee and output in dollar. // Complete
 9. Take integer inputs till the user enters 0 and print the sum of all numbers
-(HINT: while loop)
+(HINT: while loop)//Complete
 10. Take integer inputs till the user enters 0 and print the largest number from
-all.
+all.// Complete
