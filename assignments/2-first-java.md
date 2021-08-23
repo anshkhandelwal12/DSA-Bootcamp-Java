@@ -2,8 +2,8 @@
 
 ## Write Java programs for the following:
 
-1. Write a program to print factorial of a number, also take input.// completed
-2. Write a program to print whether a number is even or odd, also take
+1. Write a program to print factorial of a number, also take input.  / Complete
+2. Write a program to print whether a number is even or odd, also take//Complete
 input.
 3. Take name as input and print a greeting message for that name.
 4. Write a program to input principle, time and rate (P, T, R) from user and
