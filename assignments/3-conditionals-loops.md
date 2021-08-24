@@ -23,7 +23,9 @@
 19. Curved Surface Area Of Cylinder
 20. Total Surface Area Of Cube
 21. Fibonacci Series In Java Programs
-22. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
+
+## These are Completed
+23. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 
 ### Intermediate Java Programs
 1. Factorial Program In Java
